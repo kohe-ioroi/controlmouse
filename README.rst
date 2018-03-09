@@ -21,3 +21,5 @@ tornadoをインストールします。
 1. terminalを起動します。
 2. python server.pyで実行
 3. iPhoneのブラウザで http://MacのIP:5000/ を開く。
+
+#ブランチ間違えちゃった
